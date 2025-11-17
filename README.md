@@ -1,4 +1,4 @@
-# FlutterUPI Plugin
+# UPI Flow - FlutterUPI Plugin
 
 A flutter plugin to invoke UPI apps on the phone for Android and get the transaction information in response. This plugin supports only Android as of now.
 
